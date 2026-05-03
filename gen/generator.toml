@@ -1,0 +1,7 @@
+[general]
+library_name = "libparsec"
+output_file_path = "../src/LibPaRSEC.jl"
+module_name = "LibPaRSEC"
+jll_pkg_name = "PaRSEC_jll"
+export_symbol_prefixes = ["parsec_", "PARSEC_", "PASSED_BY_REF"]
+prologue_file_path = "prologue.jl"

@@ -1,0 +1,13 @@
+name = "PaRSEC"
+uuid = "1311367b-5956-4743-9734-7c3da7f185fc"
+version = "0.1.0"
+
+[deps]
+CEnum = "fa961155-64e5-5f13-b03f-caf6b980ea82"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+MPI = "da04e1cc-30fd-572f-bb4f-1f8673147195"
+PaRSEC_jll = "ddb48668-ddf3-513c-9a2f-ac24120d5a40"
+
+[compat]
+CEnum = "0.5.0"
+Libdl = "1.11.0"

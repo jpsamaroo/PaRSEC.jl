@@ -1,0 +1,5 @@
+[deps]
+Clang = "40e3b903-d033-50b4-a0cc-940c62c95e31"
+Hwloc_jll = "e33a78d0-f292-5ffc-b300-72abe9b543c8"
+MPI = "da04e1cc-30fd-572f-bb4f-1f8673147195"
+PaRSEC = "1311367b-5956-4743-9734-7c3da7f185fc"
